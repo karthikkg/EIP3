@@ -1,5 +1,6 @@
 # EIP3 Assignment
-
+#### NAME : Gajula Karthik Kumar
+#### BATCH : 3
 ## 1. Convolution
 
 In deep learning convolutions are nothing but the dot product of matrices.Convolutions in CNNs works on the principle of loosely connected layers as opposed to fully connected layers in multi-layer perceptrons. Convolution is performed on input data using a number of predefined size and number of filters whose values are randomly assigned which later learn through multiple  forward and backpropagaton and  to produce feature maps.The very first few layers detects minor features. Later layers detect complex features which are fed to activation funcion usually softmax which gives a probability of classification of the input data.
